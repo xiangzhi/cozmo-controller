@@ -1,0 +1,25 @@
+CorrectGuess:
+  - anim_memorymatch_successhand_cozmo_01
+  - anim_memorymatch_successhand_cozmo_02
+  - anim_memorymatch_failgame_player_01
+  - anim_reacttoblock_admirecubetower_01
+CorrectLevel:
+  - anim_memorymatch_successhand_cozmo_03
+  - anim_memorymatch_successhand_cozmo_04
+WrongGuess:
+  - majorfail
+  - anim_speedtap_playerno_01
+  - anim_rtpkeepaway_playerno_01
+  - anim_rtpkeepaway_playerno_02
+  - anim_rtpkeepaway_playerno_03
+WrongLevel:
+  - anim_speedtap_losegame_intensity02_01
+  - anim_keepaway_losegame_02
+EngageUser:
+  - anim_petdetection_cat_01_head_angle_-20
+  - anim_petdetection_dog_01_head_angle_-20
+  - anim_reacttoblock_success_01
+  - anim_rtpkeepaway_askforgame_02
+LearnIdle:
+  - anim_speedtap_player_idle_01
+  - anim_explorer_huh_01
